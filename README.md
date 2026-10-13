@@ -1,4 +1,4 @@
-# 🚀 NextRise
+ ![NextRise Banner](./nextrise-banner.png) # 🚀 NextRise
 
 ### Smarter Tools. Bigger Possibilities.
 
